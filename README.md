@@ -11,7 +11,7 @@ This is a simple puzzle game in which you have to reproduce the 4x4 pattern by r
 3. Run `main.pyw`
 ## Requirements
 - Python 3.7
-- Python tkinter library
-- Python random library
+- Python `tkinter` library
+- Python `random` library
 ## Usage
 You can move the rotating square using the arrow keys and rotate the cells using the spacebar.
